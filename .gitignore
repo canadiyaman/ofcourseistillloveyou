@@ -1,0 +1,7 @@
+.virtualenv/*
+.idea
+*__pycache__*
+*.pyc
+.env
+.coverage
+.DS_Store
